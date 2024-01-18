@@ -25,23 +25,23 @@ npm install
 
 ### VSCode Extensions
 
-- ES7+ React/Redux/React-Native snippets
+- **ES7+ React/Redux/React-Native snippets**
   - Usage: type `rfce` in a file to insert a basic component. Contains several React snippet shortcuts.
-- JavaScript and TypeScript Nightly
-- Prettier
+- **JavaScript and TypeScript Nightly**
+- **Prettier**
   - Usage: press `Shift + Alt + F` to format your file
   - If prompted, select Prettier as the default formatter
-- REST Client
+- **REST Client**
   - Usage: create a `.rest` file to send http requests
-- Tailwind CSS Intellisense
-- TODO Highlight\*
-- vscode-icons\*
+- **Tailwind CSS Intellisense**
+- **TODO Highlight**\*
+- **vscode-icons**\*
 
 _\* optional, but useful_
 
 ## Documentation
 
-### File Structure
+### Directories
 
 - `/dist`: compiled build, not tracked by repo
 - `/node_modules`: node dependencies, not tracked by repo
